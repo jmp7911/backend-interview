@@ -23,7 +23,7 @@ Backend 기술면접 질문과 답변 저장소입니다.
 - 관계형 데이터베이스와 NoSQL 데이터베이스의 주요 차이점은 무엇인가요?
 - 정규화(Normalization)와 역정규화(De-normalization)의 목적과 장단점을 비교하세요.
 - 트랜잭션(Transaction)의 ACID 특성에 대해 설명하세요.
-- [데이터베이스 인덱스(Index)의 역할과 어떻게 작동하는지 설명하세요.](https://github.com/jmp7911/backend-interview/main/Database/Index)
+- [데이터베이스 인덱스(Index)의 역할과 어떻게 작동하는지 설명하세요.](https://github.com/jmp7911/backend-interview/tree/main/Database/Index)
 - SQL Injection이 무엇이며, 방어하기 위한 방법은 무엇인가요?
 
 ### 네트워크
