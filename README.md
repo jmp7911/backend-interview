@@ -17,6 +17,7 @@ Backend 기술면접 질문과 답변 저장소입니다.
 - 이진 트리(Binary Tree)와 이진 탐색 트리(BST)의 차이는 무엇인가요?
 - 해시맵(Hash Map)의 충돌(Collision)을 해결하는 방법에 대해 설명하세요.
 - 그래프의 깊이 우선 탐색(DFS)과 너비 우선 탐색(BFS)의 구체적인 구현 방법을 설명하세요.
+- [힙(Heap)의 개념과 구현방법에 대해 설명하세요.](https://github.com/jmp7911/backend-interview/tree/main/DataStructure/Heap)
 
 ### 데이터베이스
 
